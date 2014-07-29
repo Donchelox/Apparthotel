@@ -26,9 +26,8 @@ FUSIONSTUDIO
 
 <!-- Customize your app and platform with the preference element. -->
 
-<preference name="phonegap-version" value="2.7.0" />
+<preference name="phonegap-version" value="3.3.0" />
 <preference name="fullscreen" value="true" />  
-<preference name="orientation" value="landscape" />
 <preference name="target-device" value="universal" />
 
 
